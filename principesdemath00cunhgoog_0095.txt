@@ -1,0 +1,39 @@
+mae v. 79
+le triangle DLO=DLN=DEFGH1L. Sur AC coupez
+ΔΡ qui soit b ΒΟ comme DL est b AB, et tirez BP 5 vous
+auree le triangle ABP = DLO .·= DEFGHIL.
+
+si quelqu’un des angles DLN, LDN, e'toit egel b BAC,
+la construction du triangle DLO seroit superflue.
+
+xlv. Construire un polygone semblable b un poly-
+gone prepose , et qui soit l un autre polygone propos&
+(lime le rapport de deux droites donne'es.
+
+Il e’agit de construite un polygone semblableab
+ARCDE, etqui soit au polygone F comme la droite G
+eat ὲ la droite H. Sur le ebt& AB , et avec l'angle ABG ,
+'faites le triangle ABl = ABCDE 3 prolongez AB vers L,
+eteur le ebbe ΒΙ avec l’engle IBL seiles le triangle BIL
+=F5 trouvez le droite M:BL::G:H ‚ et ΝΟ moyenne
+proporlionnelle entre AB et M. Menez les droites AG,
+AD ‚ et construlsez le triangle NOP avec l’angle NOP==
+ABG, et l'angle ONP=BAC 3 l'angle NPO seraa-ace
+Faltes le tria'n'gle NPQ avec l'angle NPQ=ACD, et
+l’angle PNQ = cAD; vous aurea l’angle OPQ= BCD ‚
+ell'augle NQP :Aba Construisea le triangle NQR
+avec l’angleNQR= ΑΒΕ , et l'angle QNR=DAE5 l'an·
+gle PQR sera = CDE , l'angle NRQ= ΑΕΒ , et l'angle
+
+0NR=BAE3 donc les polygones NOPQR, ABCDE,
+erant equiangles entre eux. Il suit de cette construe·
+lion, que le triangle NOP est semblable b ABG, le -
+lrlangle NPQ semblable a ACD, et le triengle NQR sem-
+blableb ΑΒΕ , et que per'eonse'quent ΝΟ :OP :tAB :BC ε
+mais o'n a aussi 0P2PN::BC:Ac, et NPzPQtaAC2CD3
+done OPzPQatBCzCD [3. 1o]. On tremere, de la meme
+manibre ‚ PQtQRnCDzDE: mais ona aussi QR2RN22
+DEaEA5 done ΝΟιΝΡικΑΒιΔΕ [3. 10]. On aura done
+
+ 
+

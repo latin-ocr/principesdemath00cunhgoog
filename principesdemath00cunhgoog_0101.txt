@@ -1,0 +1,43 @@
+ιιιιιιι ιι, 85
+guez AD 7 AE, ΒΕ. Puisque AB est perpendiculaire au
+plan BDE [sup.] ‚ les angles ABD, ABE, seront droits
+[6. def. 1]: mais BDE est droit aussi [conyst.]; donc*
+BDE=ABD. Et puisqu’on a le cbte' BA=DE [const.]
+et BD commun5 donc AD=BE [1. 3]. Or, AD=BE,
+DE-ss-AB, et ΑΕ commun, donnent³ l’angle ADE=
+ABE [5. 6. corol.] ,et ona ABE droit [de'm.]; doncADE '
+sera aussi un angle droit: mais les droites AD, BD,
+sont dans le plan des parallz'aeles AB , CD, parce qu'elles
+yont deux points communs [ 1. def. 5]; donc la droito ¹
+DE &tant perpendiculaire ἃ BD et ὲ AD [const. et
+dem] , sera perpendiculaire au plan des parallt'eles AB,
+CD [6. 2]‚ et par conselquent CDE sera un angle droit
+
+[6. def.>1]= mais AB , CD, sont deux droites paraflbles ,
+
+[sup. ]‚ et ABD est un angle droit [de'm. ]; donc BDC
+sera aussi un angle droit [1. 9]‚ et par conse'quent (ΣΙ)
+sera aussi perpendiculaire sur le plan BDE [6. 2]. ¹
+
+V. Les cbte's d'un angle rectiligne moindre que deux
+
+an⁸gles droits· ne sauroient &tre perpendiculaires ὲ un
+
+memep'lan. ¹
+
+Soient B, C, deux points communs ἒι un plan quelcqn·
+quo et aux οὸῑόε AB, AC, de l’angle rectiligne ΒΑΕ plus
+petitque deux droits. La ligne droite qui joindra les
+points B ‚ C , doit se trouver dans le meme plan [1. de'f.
+5} soi't BC cette droite. L’un des angles 'ABG et ACD
+nesera point droit [1. 12]; donc les obte's AB, AC, ne
+seront pas' tous deux perpendiculdires au meme plan.
+
+soient ΕΒΓ plus petit que deux angles droits, et le
+sommet D le seul point οὺ les cbte's ΕΙ), DF, rencon'· ’
+vent un plan quelconquess Dti <tenire D avec un rayou
+
+queleonque‚decrivez un cerole dans leplan de l'angle · ¹
+
+ 
+

@@ -1,0 +1,44 @@
+ποίῃ amemus mammons,
+
+Menez BC, BD, DA, ΑΕ. Les angles AEF‚.ADF, e'unt -
+dgnux, comme il est facile de s’en convnincre, on aura
+AE=AD[1.13.00r01.]=DE‚etpareonsequentADE
+sera un triangle ‹Squilate'ral et dquiangle [ 1. 4]; d’oh il
+suit que ADF vaut le tiers de deux angles droits [1. 12].
+Dans les triangles ADF, FDB, on a AF :FB [α. 2],
+DE commun, 'et l'angle DFA=DFB [const.]; donc
+l'angle ADF=BDF [1. 51, et par consequent l'angle ·
+ACB=ADF [2. 4]. Ainsi, puisque ADF 'est le tiers
+de deux droits [de'm. ]‚ l'angle ΑΕΒ le sera aussi: mais
+
+, le cbte’ Ac fitant=AB [consh]‚ on a l’angle ABG:
+
+ΑΕΒ [ ι. 4] 5 done ABG vaut le tiers de deux droits, et =
+par consequent l’angle ΒΑΕ en vhudra autan25 d'ohou
+doitconclure que le triangle ABG est &quiangle ete'qui-
+latelral [ 1. 13. corol. ]. , 1
+
+Corol. 1. Toute corde de cerole qui, eu rencontrant
+perpendiculairement un τηου, le partage en deux par·
+
+ties &galea est·6gale au οὸιέ du triangle equihte'ral
+inserit ὲ ce cerole.
+
+α. Le'rayon d'un cerole esbdonce'gal au amede l’hexa·
+gone &quilate'ral , que l’on peut inserite ὲ ce cerole.
+
+X. Construire sur une droite donne‘e un pentagono
+6quiangle et &quilatdrak
+
+soit AB la droite donnde.
+
+Investigation. De'signant par ABCDE le pentagone
+demand67 et menant A'c, BE, on formera les triangles
+ABE, BCA, dont les οὸῐέε AE=BC [sup.]‚ AB eom·
+mun , et les angles BAE=ABC [sup. ]; donc l'angle
+AEB=BCA, et ABF=FAB [1.3]: mais AB=BC
+[sup.]; donc BCA=FAB [1. ld, et par consdquent
+BOA :ABR Ainsi les uiangles ABG , ΑΒΕ , serent sem·
+
+ 
+

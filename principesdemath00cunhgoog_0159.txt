@@ -1,0 +1,43 @@
+uvas x. 147
+dune tontes les recines de cette &question ne sont pas
+ine'gales ς car si elles l'dtoient, le polynome propose' en
+auroit trois paires d’dgales , ee qui seroit absurde, puis-
+qu‘il ne peut avoir que cinq moines [e‘gales ou indgales]
+[ιο. de'f. 2]. En effes , la me'thode precedente donne 5
+et ὅ pour les moines e'gales de schisma—182
+mais al‘aide de ees deux-ci , on trouve la troisisme 2 ς
+donc 3 , 5 , 3, α, 2 , sont les racines du polynome pso·
+posd.
+
+Corol. Ceste mdthode offre uni moyen de recon-
+nofftre s’ily a des moines communes entre deux po*
+lynomes proposds , et par conse'quent de simplifier
+les sanctiens, lorsqu’ elles en sont susceptibles. Soit,
+
+-ax¹- -8a² x -1-6α3
+⁹³¹⁰³⁰¹¹¹¹³¹02 mm
+lion propose'e· supponant le numdrateur=o‚ et le'
+de'nominateur=o‚ on aura 2⁴—3ax³ —8a²x² -Ιι
+18a³x - 8a4-s: (x3— aff-Ba'x ÷6a³)= —2ax³÷
+12a³x-8a4=0; ce qui donne -- oe³÷6a²x-4a³= 05
+θ-ακάὃαὟ-Ι-6α3-1-(κθ-Ι-δαἜ-ίιαῆΞ - ax²
+——2a²x÷2a³=o; x²÷2ax-2a²=0‘; -x³÷6a²x-·
+4a³÷x &wax—211²) = 2ax²÷4a²sc—l4a³=o; et
+par conse'quent une seconde fois x²÷2axss2a²ffo3
+
+la frae-
+
+ee qui prouve que les recines de x²÷2axss2as Δ
+
+sont communes au numelrateur et au de'nominateur.
+Divisant don'c l’un et l'autre par x²÷·2ax--2a², on*
+trouvera
+π’---ιη·’---8ααε--6ιι3 - x-3a
+1⁴-3ax³-8a2x²÷'18a³x—804*x2-5ax÷s4a²·
+2. C’est encore par ce moyen qu'on'dlimz'ne les in-
+annues. Les exemplos suivants font voit ce que l’on
+
+entend par e'liminatism d’inconnues '
+
+ 
+

@@ -1,0 +1,34 @@
+LIVRE ll.
+
+minnnnons.
+
+1. Tenen ligne droite qui joint les extremite's d'un
+arc , en est la corde.
+
+Il. Pour qu'un angle soit inserite un are, il faut que
+son sommet s’y trouve place, et que ses netes aboatis-
+sent aux deux extremites decet are.
+
+Ill. -Lorsqu’il est impossible de menet plus d’une
+dreitepar le sommet d’un angle queleonque ‚ entre les
+lignes qui en sont les celes , on appelle ces lignes tan·
+gentes l’une, de I’autre, et on dit qu'elles se touclent
+reciproquement au sommet.
+
+,PROPOSITIONS
+
+1. Trouver le eentre d'un cercle prepose'.
+
+Soit ΑΒΕ le cerole. Tirez la eorde AB, et divisez-la
+e'ga‘lement en D. Par le point D menez la perpendicu-
+laire EDC jusqu’h la cireenfe'rence, et divisa-la e'gale-
+ment en F: je dis que F sera le point que l’en demando.
+
+Car entrement le centre du cerole devra se trouver
+hors de la ligne EC [ι. def. 6].. Supposons-le en G, et
+menons GA, GD , GB3 on aura AG=GB [1. de'f. 6]‚ et
+l'engleGAD=GBD [1. ll: mais AD=BD [const.]; done
+;ADG= BDG [1. 5] , et par consequent ces deux angles
+
+ 
+

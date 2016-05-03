@@ -1,0 +1,41 @@
+LIVRE III. 2
+1,1„e'qu1mnluples de E,F; G,H,e'quimultiplesdeB‚ll),
+et M, N , &quimultlples de'G, H : je dis quel sera > M,
+toutes les fois que L seru >N3 ou I < M, lorsqueL <N.
+
+Supposons I>M, et P, Q, &qui-souumultiples de B, D,
+muisl condition que P, moindre que A, puisse entre'r
+dans lu moitiu de I-M plus de fois que A n’entre en I.
+Preuez R multiple de P, moindre que A, sans Atre <
+A-R3 et S aussi multiple de R que 1 l’est de' A.
+Retrunchant R de Ι autaut de fois que A 'entre en I ,
+la somme de tous les restes sera moindre que la moi-
+tIe' de I·- M [const.] : donc l -S moindre que la
+moitid de I-M, et par conse'quent S plus grand que
+la somme de M plus la moitid de 1 -M.P entrera douc
+eu S plus de lois qu'en M: muis il est facile de de:-
+moutrer que Q ne peut pas eutrer en L moins de fois
+queP en S3 douc Q entreru en L plus de fols que P eu
+Μ, et par couse'queut Q enL plus de fois qu’eu N 3 d’oh
+il s’ensuit que L> N, lorsque I > M. Ou ‹le'monueroit
+«le meme L < N, lousque 1 < M : mais I , L, s‘out e'qui·
+multiples de E, F, et M, N, e'quimultiples de G, H ς
+douc Eththfl.
+
+VIII. Si plusieurs grandeurs sont proportionuelles,
+- cha'que conse'quent sera lson ante'ee'dent, comme cha·
+que consequent est Isou antdeudent.
+
+EGFH cuffu
+A,B,c,u B‚A,u,c
+
+Soi't A:B::C:D ; je dis que R:A::D:C 3 car supposaut
+
+u,F,0'qu1mu1upus uel‚c‚etu, mamutium de ’
+
+Β, D, on aura Eszthfl [3. 7], et par cousequeutE
+>G, lorsque F>H, ou bien E<G, lorsque F<H
+[ὅ. 212d0neB=A::D:c[3. 6].
+
+ 
+

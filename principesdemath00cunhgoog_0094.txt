@@ -1,0 +1,42 @@
+78 ancms mmmmm·
+
+x112 Trouver nne moyenne proportionnelle en'tw
+deux droites donades , et ine'gales. Α
+“ Soient A, B, ces deux lignes.
+
+Sur une droite quelconque CD coupez CE=A‚ et
+ED=B; dIvisez CD &galement en F, et du uentre F aree
+le rayon CF ddcrIVez le cerole CGH3 pu· lo point ‚B‘
+menen la eorde EG perpendiculaire sur CD: Eo sem
+moyenne proportionnelle entre Α et Β.
+
+Prolongez GE jusqu'au point H dela circonfdreneda
+Le diamktre CD eoupe GH perpendiculairement enE
+[const. ]; donc EG: ΕΗ [2.2]: mais onnCEtEGzz
+EHAED [5. 9]; donc CE2EG22EG2ED.
+
+Ι XIII. Avec un οὸῑέ et l’angle adjacent donnds,
+construire un triangle qui soit &galia un polygone pro-
+pond.
+
+Soient donnds le polygone DEFGfflL, le οὸῑό AB, et
+l’angle adjacent BAC. Menant DF et puis EM parallbleb.
+DFfprolongeant GF jusqu'au point M de la droite EM ,
+et tirantDM‚ on aura les triangles DEF,DFM, ayantIn
+meme base DF , et <Stant places entre les mImeo pm!-
+lIles DF, EM 3 d’oh il est facile de conclure qu'ils doi-
+vent avoir deshauteurs §galea , et Atre par cumdquent
+Igaux [5. 2. corol. ]; donc le polygone DEFGHIL pro-
+pos& sera &gal au polygone DMGHIL, qui a un οόῑό de
+moins. On nomem, de Ia meme manibre, un autre po-
+
+lygone ayant un οὸῑέ de moins, et &gal au propos& 3 et
+continuant I (τρόπον de meme, on parviendrai uu ·
+' triangle DLN &gal au polygone DEFGHIL. Suppo-
+sons d’ahord que l’angle ΒΑΕ donne} differe (Ie chacun
+des angles DLN, LDN: faisant l’angle LDO = BAC,
+
+menam No parallblo I DL, et tirnnt LO , on nuta
+
+ 
+

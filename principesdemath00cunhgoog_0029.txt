@@ -1,0 +1,40 @@
+[IVRE l. 11
+
+Solent DE, Fu, paralleles‚ et Β, C, les deux points ola
+elles coupent la troisieme ΑΒ. Si deux des angles al·
+te1·nes‚eomn1eBCDet CBG, pouvoient ne pas etre
+egam, l’un , par exemplu BCD, serait plus grand que
+l'autre CBG 5 on anrolt donc BCD plus BCE > CBG
+plus BCE ε mais la premiere de ces deux summes
+vaut deux angles droits [1. 6. corol. ] 5 (lonc CBG plus
+BCE en feroit une plus petite que deux angles drona,
+et par conse'quent GE , BG, prolongeesla nolonte, pour·
+roient se rencontrer [1. ax.]: mais cela est impossible
+[ευρ] 3 (lonc l’angle BCD=CBG. ll suit de lt qne l'an·
+gle CBG plus BCE=BCD plus BCE= mais cette ‹ler-
+niltre somme vaut deux angles droits [1. 6. corol. ]‚·
+
+donc CBG plus BCE ferunt aussi deux angles droits. ’
+Or, ACE=BCD [1. 7], et CBG=BCD [dem] 5 donc
+ACE=CBG.
+
+X. D'un point donne sur nne droite quelconque
+
+tirer une droite qui y fasse un angle egal ὲ un angle
+donne'. ἵ
+
+Soit AB la drolte, A le sommet, etCDE l’angle donne·
+Sur DE prenez un point quelconque G, et saites DF'=
+DG [1. 2] 3 menen FG, que vous diviserez &galement ’
+en H [1. 5], et joignez ΒΗ. Puisque DF=DG [const] ,
+on aura l’angle DFH=DGH [1. 4] : mais ces angles
+sont compris entre des οόῑέε c'gaux chacun l chacun,
+savoia? entre DG=DF et GH = FH [const.]; donc
+l’angle DHF=DHG [1. 5] ‚ et par conse'quent ΒΗ per·
+pendicnlaire a FG [1. 6. corol.]. Prenant ensuite Al:
+ΒΗ [1. 2], et levant IL perpendiculaire sur AB [ι. 6],
+et egale a FH [1. 2], menez AL. Dans les triangles
+1AL, DHF, vous anrez lA=HD21L=HF, et l'angle
+
+ 
+

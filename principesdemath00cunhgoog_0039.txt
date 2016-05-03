@@ -1,0 +1,40 @@
+η nrvrnr 11. ' '21⁴
+ont des cordes e'gales 3 et les cordes egales soutendent de,
+arcs egaux. Ι 0
+
+IX. Deux lignes qui touchant nne troisieme dans un
+point quelcouque , ¹sont tangentes entre elles dans ce
+meme point. ’ ,
+
+Supposons que AB 7 AC, touchant la meme ligne AD
+an point A: je dis que AB touche Ac au meme point.
+< Car autrement on pourroit mener entre AB et Ac', par
+le point A, deux lignes droites [2. def. 3], et entre ces
+deux lignes autaut de droites qu'on voudra: mais de
+tontes ces dmitos, il en tomberoit deux pour le moins,
+soit entre BA et DA ‚ soit entre CA et DA 3 donc les lignes
+AB, AC, ne seroient pas tontes deux tangentesiala meme , Ι
+droite dans un meme point, ce qui seroit contraire ὲ la
+supposition. Donc AB est tangente ὲ AC.
+
+Corol. 1. Les circonfe'reuces de deux cercles , qui ont
+un point commun en ligne droite avec leurs centres,
+,sont tangentes l'une de l'antre dans ce meme point 5 et
+les circonfe'rences qni sont tangentes l'nne de l’autre,
+ont leurs centres en ligne droite avec le point de contact.
+
+Soit AB la droite qui joint les centres de deux cercles ‚
+et A le point commun a leurs circonfe'rences. si l’on
+mene la perpendiculaire AC par le point A, les deuncer-
+cles toucheront Ac dans ce point [2. 6. corol.] , et par
+consequent ils s'y toucheront re'ciproquement [2. 9].
+
+soit Ale point de contact de deux cercles qui s'y tou-
+chent re'ciproquement, et Β le centre de l'un d’eux. Par
+le point A menez la droite AC perdendiculaire au rayon
+AB 3 AC sera tangente de ce cerole au pointA [2. 6. co· ·
+rol.] ε mais les deux cercles s'y touchant reciproquernent ¹
+[suu] 3 d nc Ac sera aussi tangente de l'autre [2. 9],
+
+ 
+

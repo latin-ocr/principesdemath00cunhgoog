@@ -1,0 +1,44 @@
+LIVRE ῐ. 7
+
+Supposons dans le triangle ABG le οόῑέ AB=AC ‚ et
+prolongeons AB et ΑΕ en· faisant CE=BD [1. 2]: nous
+aurons AD=AE. Menons DC et ΒΕ. Dans les trianglet
+ΑΒΕ et ΑΕΒ, on a AD=AE [dm] , AC=AB [sup.] ‚
+et l’angle ΒΑΕ commun: on aura donc CD=BE, l'angle
+ACD=ABE, et l'angle BDC=CEB [1. 3]. Dans les
+triangles ΗΒΕ, ΕΕΒ, on a DB=EC [const.], DC=EB
+[dem. ], et l'angle ’ΒΒΕΞΕΕΒ [de'm. ]; donc l'angle
+DCB=EBC [1. 3]: mais l’angle ACD=ABE [demk
+donc l'angle ACB=ABC.
+
+V. Partager une ‹lroite donne'e en deux parties &galea
+
+soit AB la droite donnde. Sur AB construisez les
+triangles dquilatdraux ABG, ABD ‚ et menez la droite
+CD· Cette droite divisera AB e'galement en: E.
+
+Car CA &tant = CB [coum] , on a l’angle CAR:
+CBE [1. 4], ainsi que DAE=DBE5 (lonc l'angle ΕΑΒ
+τ-ΕΒΒε mais ces angles e'gaux sont compris entre des*
+' cbte's e'gaux ‚ saveir ‚ entre AC=BC etAD=BD[eonst.],·
+donc l’angle ACE=BCE [ι. 3]- On aura donc dans les
+trianglesCAE, CBE , le οὸῑέ ΕΕ commun, CA=CB, et
+l’angle ACE=BCE [ddumb et pat conse'quent ΑΕ :2-
+BE [1. 3]. ·
+
+v1.· Par un point donne* sur une d'roite quelconque.
+effever une perpendiculaire ὲ cette droite.
+
+Soit ΒΕ la droite, et A le point clonae. Il s'agit d‘e'*
+lever AF perpendicnlaire ὲ BC'..
+
+De οὸῑό et d’autre du point Α prenez ΑΕΞΑΒ, et
+consu-uisez les triangles &quilatdraux DEF et DEG3 la
+droite FA, mene'e par les points F, A, sera la perpen-
+
+diculaire demande'e.
+
+La droite FG devant¹ xpasser par lepointA [ι. 51;,,1Β ⁴
+
+ 
+

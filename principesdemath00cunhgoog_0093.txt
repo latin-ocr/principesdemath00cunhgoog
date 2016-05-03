@@ -1,0 +1,49 @@
+mna v. 77
+
+soit ABG nn angle rectiligne dont les ostes rencon-
+
+trent la circonferenoe ACDE aux points A, G, D, E.
+
+Menant les droites AD , CE , on formera les triangles
+
+BAD, BGE, dontl'angleDAE=DCE [s. 4. corol] , et
+
+l'angle ABD=CBE , et par consequent BA :BD:: BC :BE
+[5. 6. corol.].
+
+X. Si l'nn des eote's d'un angle rectiligne rencontre la
+circonterence d'un cerole en deux points, tandis qne
+l'entre ne la rencontre qu’en nn seul 5 et si ce second
+ellte est moyen proportionnel entre les segments du pre·
+mier, interceptos entre la circonferenee et le sommet de
+l’angle , je dis qne le second οὸῑέ sera tangent au cerole 5
+etque s'il est tangent au cerole, il sera moyen propor-
+tionnel entre les deux segments dn premier.
+
+soit ADB l’angle dont les cbtes rencontrent la circon-
+le'renoe dans les trois points A, Β, C , et supposons DA
+:DBtzDBtDC⁸ Tirant les droites AB, BC, on aura les
+‹lenx triangles semblables DAB, DBC [5. 7], qni don-
+nent l'engle CBD=BAC 5 dono le c6te' DB tonclaera le
+cerole en Β [2. 6]. Supposons maintenant qne BD tonohe , «
+le cerole en B5 on anra l'angle BAC = CBD [ α. 6]s
+nais l’angle BDC est commun 5 dono DAzDB zzDB :Dc
+[5. 6. eorol.].
+
+Ι xl. Tronver nne quatrieme proportionnelle l trois
+l droites donnees.
+
+Solent B, C, A, ces droites. Sur les cotes d'un engle
+qneloonque ΗΒΕ moindre que deux angles droits, on
+prendre DE=A, DF: Β, et DG=C5 menant FG et
+
+: ensuiteEH parallelelFG, onanral’angleDFG=DHE‚
+· etl’ angle DGF=DEH [r. 9] , et par consequent ΒΗ·
+
+DE: ΗΒΕ Βο[5 6. corel-'·],oest·ldite,DH::A ΗΒΕ.
+
+ 
+
+l
+ι
+

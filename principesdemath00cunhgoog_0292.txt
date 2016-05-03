@@ -1,0 +1,43 @@
+282 mmmm mmmmm,
+
+10t7}non pascommeP- 3 etr? maiscommeP(—5 ÷t t)
+
+et Γ (Ξ- ÷ t), en designant part un terme aussi petit
+
+qu'0n pourra dela se'rie ο, 0‚1 3 0 ‚001 3 o,0001, etc.
+
+X. Trouver une fonction Γπ qui satisfasse aux termes
+ro, Pa, Pb,1'c, Γε, Pf,eto. ‚ en supposant a<b, b<c,
+c<e‚ e<f‚' a1ns1 de suite et positifs.
+
+Ayantcalculefflz ‚Eg-— Ηὶα--Αίύ
+
+At.-
+
+,Γε Pb
+
+:ML -Pc :Am7 eme
+e--c
+
+ειν, ffl201‘ss-A-'''=0111,00.‚⁸--' Β
+=C›-- 13²¹ B' ω,0,Βᾷ 0:021, Eg:
+C''‘, etc. Ξῗ-Ο-ε-Ε, Cj—-g-lefletc„ onaurarx
+=r0÷Ax÷Bx(x-a)÷Cx(x-a a)(x-b)÷Ex(x-ss]
+(ι’-ὂ) (x- c)÷etc. 3 car posant successivementx=a‚
+x=b, τεο, etc„ l'expression Px=P0÷Ax÷et0 sa-
+tisfait aux e'quations Pa=P0÷Aa, rb =r0÷Ab÷Bb
+(b-a), Fc=P0÷Ac÷Bc(c—a)÷Cc(c-a) (cab),
+
+etc. , qui de'rivent des &quations ci·dessus calcule'es.
+Exemples. On demande le terme gendral de la se'rie
+P0=1,P2=27,1¹5=64‚I'7=512‚F9=1000,
+r10=1351, etc. En observant la 1·0gle‚0n trouvera
+
+0, 2, 3, 7, 9, 10,etc.
+
+1, 27 ,64 , 512 ‚ 1000 ‚1531‚etc.
+
+13 , 57,112, 244 , 551, etc.
+
+ 
+

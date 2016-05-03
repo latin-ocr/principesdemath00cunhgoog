@@ -1,0 +1,43 @@
+ιο emncnns nnnnlnnnnnns,⁴
+
+Car autrement elles pourtont se rencontrer, par exem·
+ple en G. Divisons AB &galement en H [1. 5], et
+menone la droite GHI en faisant H1= HG. Si l'on·joint
+AI ‚ on aura les triangles ΑΗΙ, GHB, dont l'angle·AHI
+ν sera=GHB [1. 7] : mais les entes qui comprennent ces
+
+deux angles sont egaux chacun a chacun, dest-adire ,
+AH=HB et HI=HG [const. ]; done l’angle HAI=
+
+HBF [1. 3] ε or, CAH est aussi e'gal a HBF [sup.]; donc .
+HAI=HAC, ce qui est impossible. Dono les deux
+droites CD ‚ EF, ne sauroient se rencontrer, et par eon-
+sequent sont parallelas [1. de'f. 11 J.
+
+Corol. Deux droites sont paralleles‚ lorsqu’elles sor-
+ment avec une troisieme droite l’·un des angles exter·
+nes e'gal a l'angle interne oppose du meme cnte'3 ou
+lorsque deux des angles internes d’un meme cate va·
+lent ensemble deux angles droits.
+
+Car supposant l’angle externe LAD=ABF interne „
+et oppose' du meme cete , on aura LAD=CAB [ι. 7] ,
+et par consequent CAB=ABF ι done CD, EF, serent
+paralleles [dam. ]. '
+
+Supposons que ABF et ΒΑΗ, internes du meme οόῑό „
+lassent ensemble deux angles droits. Puisque CAB plus
+BAD font aussi deux angles droits [ι. 6. corol.], on aura
+ABF plus BAD=CAB plus BAD. Retranchant donc de
+ees deux sommas egales la partie commune BAD ‚ reste
+
+ABF=CAB3 d’oh il suit que CD et EF sont paralleles
+1. 8 .
+
+l lxl si une droite coupe deux paralleles‚ les angles
+alternes seront eganx, les deux internes du meme οόῑό
+leront ensemble deux angles droits ‚ et l'externe sera
+e'gal ll'interne oppose du meme οόιέ.
+
+ 
+

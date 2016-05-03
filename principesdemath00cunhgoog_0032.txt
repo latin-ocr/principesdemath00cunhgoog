@@ -1,0 +1,39 @@
+πά nn1nenesn1nnnnnnn10nn3‚'
+
+XV. Dans tout parallelogramma, les angles oppose's,
+· ainsi que les obte's oppose's entre eux, sont eganx.
+
+Supposen ABCD nn parallelogramme ‚ et menez la dia.
+gonale BD. Puisque AD est parallelen BG, et AB pa-
+rallele ὲ DC [sup. et 1. def. ¹7]› l'angle ΑΗΒ sera:
+DBC [1. 9]‚ ainsi que l’angle BDC=ABD; done l’angle
+ADC=ABC. On trouvera de meme BAD=BCD.
+
+Je dis, en second lieu, qne les cnte's opposes sont
+e'gau13 ear s'ils ne le sont pas, on pourra supposer, par
+exemple ‚ AB> DC: faisant donc BE=CD‚ et menant
+DE, on aura dans les triangles BDE, CBD, nn cbte' eom·
+mun BD,leenteBE=DC‚etl’angle ABD=BDC[de'm.];
+done BDE=CBD [1. 3]: mais ADB=DBc[de'm.]; done
+Α l'angle BDE=ADB, ce qni est impossible 3 donc AB:
+DC et AD=BC.
+
+Corol. 1. La diagonale partege le parallelogramme
+en deux parties egeles.
+
+2. Tont parallelogramme est rectangle , s’il a un angle
+droit.
+
+XVI. si deux ebte's opposes d'un quadrilatere sont
+egaux et paralleles i le quadrilatere est un paralle'lo·
+gramme.
+
+Supposez qne les eete's AB, (ΙΙ), du quadrilatere ABcD,
+soient e'gaux et paralleles‚ et menen la diagonale BD: le
+edte' AB e'tant parallele ὲ CD ‚ l'angle ABD sera = BDC
+[1. 9] : mais BA=DC [sup.]‚ et BD commum done
+l’angle BDA=DBC [1. 3] , et par consequent AD est
+parallele& BC [1. 8].
+
+ 
+

@@ -1,0 +1,35 @@
+ιδ eumenes remumque& ,
+'soit C un point quelconque de la corde AB, et D le
+centre. Menez les droites AD, BD, CD. L’angle DAC
+etant=DBC [1. 4]‚ et DBC < DCA[1.12]‚ onaura
+DAC< DCfl, et par consequent DC < DA [ t. 13]:donc
+le ’ῥόἰῇὶο sera dans l’interieur du cerole. ¹
+VI. ,Lorsqu’une droite ct une corde se reucontrent
+(lans un meme point de la circonfe'rcnce , de telle sorte
+que l'angle qu'elles y forment soit egel l l'augle inserit
+dans l’arc exterieur, &este-dire, dans l’erc qui n'est
+point compris entre la droitc et la corde, je dis que cette
+droite touche les deux arcs nu point ot elle les rencon-
+tre 5 et que si elle y est tangente ὲ l'un de ces deux urcS,
+elle lesere c'galement ll’eutre, et formera de chaque
+celte de la corde, deunangles egauxfa ceux qui serent
+inserite 'dans les arcs enerues, chacun lt chacun.
+· La droite ΒΑΕ passe par l'extre'mite'A (le la cerdeAB,
+, et y fait'avee elle l’angle ΒΑΕ egal ὲ l’angle ACB ins·
+β’ crit dans l’arc AGB :cet arc s’appclle externe par rap·
+port {tl’angle ΒΑΕ. Cela pose , je dis que la droite DE
+touche les deux arcs AFB , ΑΕΒ , an point A.
+Toute'droite mene'e du point Al quelque autre point s
+de l’arc AFB, doit tomber daus l'interieur du cerole
+[α’. 5 ] , etfaire avec AB un angle moindre que ACB
+[α. 4]; car il sera inserit l un arc > AcB; donc ce meme
+angle doit ltre < ΒΑΕ , et‘par cons'e'quent tons les points
+dcl’arc AFB serent situes entre les droites AB et ΑΕ.
+Meum, s’il est possible ,par le point A ‚ entre le clte' ΑΕ
+et l’urc AFB ‚ une droite AG. Puisque l'angle BAE eet
+· = ΒΕΑ [sun] , on aura BAG < ΒΕΑ ; on pourra donc
+, faire BCH = BAG 7 et mener ΑΗ. L'angle BCH sera :=
+ΒΑΗ [ 2. 4. corel] ‚ et par consequent BAH=BAG,
+
+ 
+

@@ -1,0 +1,41 @@
+26 rumonus usununrrouns,
+
+aure chaque ante'ee'dent plus son consequent A ron oon·
+sequent , comme chacun des autres antecedents plus son
+conse'quent ison consequent5 et si les antecedents sont
+
+plus grands que leurs consequents 7 on aura aussi chaque¹
+antecedent moins son consequent A son consequent,
+comme chacun des autres antecedents moins son eon-
+sequent ὲ son consequent. Cette proposition est facite
+A de‘duire de la de'finition 111, liv. 111.
+
+V. Lorsque plusieurs grandeurs serunt proportionnel·
+
+“ les et homogenes , on aura tous les antecedents pris en·
+
+semble ὲ tous leurs consequeuts, comme chaque unte·
+cedent est -i son consequent.
+
+soit A:B::C:D. Je dis que A÷CtB÷D::A:B. Sup-
+posons P sous-multiple de Betmoindre que A, et Q aussi
+sous-multiple de D queP l’est de B. si P n’entre qu’une
+fois en A, et par cousequentQ une seule fois en C [3. dest .
+5] ,le tout P÷Q n'entrera qu’une fois en A÷c; eurl'ex·
+ces de A sur P doit etro moindre que P, et celui de C
+surQ moindre que Q. De meme si 1³41> entre une seule
+fois en A 7 et par· consequent Q÷Q une seule fois en C ’
+[3. def. 3] , te toutP÷P÷Q÷Q‚ ouhienP÷Q÷P÷Q
+n'entrera qu’uue fois en A÷C. On prouvera de meme, ·
+que si P entre trois fois en A, et par conse'quent Q trois
+fois en C ‚ le tout P÷Q n’entrera que trois fois enA-t·C5¹
+et ainsi de suite. Mais P÷Q est aussi sous-multiple de
+B÷D que P l'est de 135 [car si l'on suppose B=P÷P,
+et par consequent D=Q÷Q, on a B÷D=P÷P÷Q-
+÷Q=P÷Q÷P÷Q; si l'on suppose B=P÷P÷P, et
+D=Q÷Q÷Q, on a B÷D=P÷P÷P÷Q÷Q÷Q=
+P÷Q÷P÷Q÷P÷Q, et ainsi de suite]: dono A÷cffl
+÷D::A:B.
+
+ 
+

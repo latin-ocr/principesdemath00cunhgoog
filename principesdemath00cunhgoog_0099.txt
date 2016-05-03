@@ -1,0 +1,37 @@
+mna Ν. 83
+pourra placer l la lois sur le meme plan, le sommet B,
+nn point quelconque (lu elne ΑΒ, et un autre de BC , et
+par consequent les droltes AB ‚ CB, se trouveront tontes
+denxsnrle meme plan [1. def. 5].
+
+11. Toute droise qui tombs a angles drolts sur le point
+d'intersection de deux droltas qui s'y croisent ‚ est per-
+pendiculaire au plan de ees deux‘dmises
+
+Solent ABC ‚ ABD, des angles droits: assera hors dn
+plaude CBD 3 car antrement il y auroit des angles ‹lesits
+differents entre eux, ce qui estimpossible. Sur CB et BD
+prolongees avolante, prenez les parties egeles BC, BD,
+BE, ΒΕ, par le point Β dans le plan CBD tirez une
+‹lroite quelconque GH, et ensuite CD, EF. Ces droites Ι
+seront situees dans le meme plan CBD [1. def, 5] , et
+rencontr'eront GH, ou son prolongement ‹lans deux
+points G, H. D’un point queloonque A ‹le la droite AB
+tiras AC, AD, ΑΕ, AF, AG , AH: on ausa dans les
+triangles BCD, ΒΕΓ, les elles BC=BF, BD==BE
+[consa] ,etl’angle CBD==EBF [r. 7] 3 donc CD=EF,
+et l'angle BcG=BFH·[1. 31. Or, les triangles BCG,
+BFH, ont l’angle CBG-..zFBH , et l’angle BCG=BFH
+[tlemh donc ils sont eqniangles[1. 12] ε mais le οόῐό
+BC est &gall son homologue BF [eonst.]; donc (ἔδει
+ΠΙ, et BG=BH [5. 5. eorol.]. On a aussi dans les trian·
+gles Bac et ΒΑΕ les entes BC=BF [const. ] , BA com-
+mun, et l’angle ABC=ABF [sup. ] 5 donc AC=AF
+[1. 51. On trouveroit ‹le meme AD=AE= mais CD=
+EF [deun] donne l'angle ACG=AFH [5. 6. corol. ],
+et ona encore AC=AF et CG=FH[de’m.]; donc AG
+:AB [1. 3] : mals on a aussi'BGzsslI [de'm. ], et ΒΑ
+eommun3doncl'angleABGzABH [5.6.c0r01.], d'on ll
+
+ 
+
